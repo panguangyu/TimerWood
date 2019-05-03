@@ -21,9 +21,12 @@ ln -s /usr/local/timerwood/main /usr/bin/ti
 ```go
 > ti "python test/test.py"                            # 计算脚本运行的时间
 > ti "php test/test.php"
+> ti "go run main.go"
 > ti "ls"                                             # 计算 Linux 命令运行的时间
 > ti "mysqldump ..."                                  # 计算 mysql 导出时间
 > ti "wget http://..."                                # 计算 wget 下载的时间
+> ti "curl http:// ..."                               # 计算 curl 请求时间
+> ti "ping ..."                                       # 计算 ping 所花时间
 ```
 
 ## Log
