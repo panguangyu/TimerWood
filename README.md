@@ -1,3 +1,7 @@
+[![License](https://img.shields.io/badge/license-Apache%202-green.svg)](https://www.apache.org/licenses/LICENSE-2.0)
+[![Build Status](https://travis-ci.org/xialonghua/kotmvp.svg?branch=master)](https://travis-ci.org/xialonghua/kotmvp) 
+[![Download](https://api.bintray.com/packages/xialonghua/kotmvp/kotmvp/images/download.svg)]
+
 # timerWood
 Go 开发的 Linux 时间记录仪
 
@@ -13,11 +17,11 @@ ln -s /usr/local/timerwood/main /usr/bin/ti
 
 ## Usage
 ```go
-> ti "python test/test.py"                            # 计算脚本运行的时间 Calculate the running time of the script
+> ti "python test/test.py"                            # 计算脚本运行的时间
 > ti "python test/test.php"
-> ti "ls"                                             # 计算Linux命令运行的时间 Calculate the running time of the Linux command
-> ti "mysqldump ..."                                  # 计算mysql导出时间
-> ti "wget http://..."                                # 计算wget下载的时间
+> ti "ls"                                             # 计算 Linux 命令运行的时间
+> ti "mysqldump ..."                                  # 计算 mysql 导出时间
+> ti "wget http://..."                                # 计算 wget 下载的时间
 ```
 
 ## Log
