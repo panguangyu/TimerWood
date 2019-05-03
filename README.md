@@ -4,6 +4,9 @@
 # timerWood
 Go 开发的记录 Linux 命令或程序执行的时间工具
 
+## prerequisite
+需要 root 权限
+
 ## Quick Start
 ## Install
 ```go
