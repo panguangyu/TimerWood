@@ -2,7 +2,7 @@
 [![Build Status](https://travis-ci.org/xialonghua/kotmvp.svg?branch=master)](https://travis-ci.org/xialonghua/kotmvp) 
 
 # timerWood
-Go 开发的 Linux 时间记录仪
+Go 开发的记录 Linux 命令或程序执行的时间工具
 
 ## Quick Start
 ## Install
