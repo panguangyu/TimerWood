@@ -31,7 +31,7 @@ ln -s /usr/local/timerwood/main /usr/bin/ti
 
 ## Output
 ```
-cat ./output_*.log                                    # 程序或命令执行的结果，存放当前执行ti命令所在目录的output_xxxxxx.log中 
+cat ./output_*.log                  # 程序或命令执行的结果，存放当前执行ti命令所在目录的output_xxxxxx.log中 
 ```
 
 ## Log
