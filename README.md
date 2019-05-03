@@ -20,7 +20,7 @@ ln -s /usr/local/timerwood/main /usr/bin/ti
 ## Usage
 ```go
 > ti "python test/test.py"                            # 计算脚本运行的时间
-> ti "python test/test.php"
+> ti "php test/test.php"
 > ti "ls"                                             # 计算 Linux 命令运行的时间
 > ti "mysqldump ..."                                  # 计算 mysql 导出时间
 > ti "wget http://..."                                # 计算 wget 下载的时间
