@@ -4,7 +4,7 @@
 # TimerWood
 Go 开发的记录 Linux 命令或程序执行时间工具，支持统计各种脚本、Linux命令执行的时间
 
-## prerequisite
+## Prerequisite
 需要 root 权限
 
 ## Quick Start
